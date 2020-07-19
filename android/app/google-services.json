@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "623677974700",
+    "firebase_url": "https://zippelin-7b813.firebaseio.com",
+    "project_id": "zippelin-7b813",
+    "storage_bucket": "zippelin-7b813.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623677974700:android:f212513ce2899d1d4b5709",
+        "android_client_info": {
+          "package_name": "com.zippelin.agent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623677974700-7q003ilc94h37vselvj2c7m11q09vh87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPvk_Hzrbxn9knrozcKf0uLSozaz4aLFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623677974700-7q003ilc94h37vselvj2c7m11q09vh87.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "623677974700-b34vdrqjsrth6o2aovme76rbg8ritopo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zippelin.customer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623677974700:android:b9138160c7826f164b5709",
+        "android_client_info": {
+          "package_name": "com.zippelin.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623677974700-7q003ilc94h37vselvj2c7m11q09vh87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPvk_Hzrbxn9knrozcKf0uLSozaz4aLFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623677974700-7q003ilc94h37vselvj2c7m11q09vh87.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "623677974700-b34vdrqjsrth6o2aovme76rbg8ritopo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zippelin.customer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623677974700:android:5ca46541337115254b5709",
+        "android_client_info": {
+          "package_name": "com.zippelin.merchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623677974700-7q003ilc94h37vselvj2c7m11q09vh87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPvk_Hzrbxn9knrozcKf0uLSozaz4aLFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623677974700-7q003ilc94h37vselvj2c7m11q09vh87.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "623677974700-b34vdrqjsrth6o2aovme76rbg8ritopo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zippelin.customer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
